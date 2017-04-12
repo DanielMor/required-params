@@ -1,0 +1,23 @@
+{
+  "name": "required-params",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMor/required-params.git"
+  },
+  "author": "Daniel Moreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielMor/required-params/issues"
+  },
+  "homepage": "https://github.com/DanielMor/required-params#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
